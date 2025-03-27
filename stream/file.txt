@@ -1,0 +1,1 @@
+hello, i want to learn how to use js to manipulate text files and hopefully other things for future but for today lets just stay withtext files
