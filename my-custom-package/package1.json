@@ -1,0 +1,11 @@
+{
+    "name": "my-custom-package",
+    "version": "1.0.0",
+    "description": "A custom package for demonstration purposes",
+    "keywords": [
+        "custom",
+        "package",
+        "example"
+    ],
+    "author": "Akinola",
+}

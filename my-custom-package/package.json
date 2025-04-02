@@ -1,0 +1,14 @@
+{
+  "name": "greet-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akinola",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
